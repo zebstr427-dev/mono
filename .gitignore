@@ -68,4 +68,5 @@ local.properties
 *.apk
 *.aab
 android-app/.gradle/
+android-app/.idea/
 android-app/app/build/
